@@ -1,0 +1,44 @@
+/*.header{
+	background-image: 
+url('http://funlava.com/wp-content/uploads/2013/03/Twitter-Cool-Backgrounds.jpg');
+}*/
+
+.header{
+  color: white;
+  margin-left: 290px;
+  font-family: 'Tangerine', serif;
+  font-size: 45px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+.form{
+	margin-left:250px;
+}
+
+.bird{
+	font-size: 20px;
+}
+
+.cheep b{
+	font-family: 'Shift', sans-serif;
+	font-size: 30px;
+}
+
+ body{
+    margin-top: 20px;
+    padding: 60px;
+    background-image: 
+    url('http://funlava.com/wp-content/uploads/2013/03/Twitter-Cool-Backgrounds.jpg');
+    color: white;
+
+}
+  .nav a {
+  color: white;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+  
+}
+
+  
+}
